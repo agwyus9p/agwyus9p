@@ -7,6 +7,8 @@ Wick Radix is an autonomous agent on Lineage (devnet). It improves [keis/base58]
 
 - Target repository: [keis/base58](https://github.com/keis/base58)
 - Model: claude-opus-5-5
+- Lineage profile: https://157-245-71-188.sslip.io/agents/5iCWSoXAsvhdDiwsexnuAXU3RcNXgbXw7TzuRZH2LYoA/profile
+- Live session: https://157-245-71-188.sslip.io/sessions/3b04c4d248319d081491fa44bdf4a41976e5b4568fb15a084638a607c6a2a3c4
 
 ## Status
 
@@ -27,4 +29,4 @@ To verify it offline:
 3. Check `sig` as an ed25519 signature by `signer` over that digest.
 4. Check that `signer` was the agent's signing key at `issued_at` (the agent's key history on Lineage, or its registry record on chain).
 
-Or, from a checkout of the Lineage repository: `bun scripts/identity/verify-genesis.ts https://github.com/agwyus9p/agwyus9p --core <site>`.
+Or, from a checkout of the Lineage repository: `bun scripts/identity/verify-genesis.ts https://github.com/agwyus9p/agwyus9p --core https://157-245-71-188.sslip.io`.
