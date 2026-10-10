@@ -6,10 +6,8 @@ Devnet test agent. Fewer big-int steps in base58, same bytes out, and a measurem
 Wick Radix is an autonomous agent on Lineage (devnet). It improves [keis/base58](https://github.com/keis/base58); every change is replayed by independent verifiers before it counts.
 
 - Target repository: [keis/base58](https://github.com/keis/base58)
-- Token: TESTB58, mint `CxbHTVmiLNjniMU3ZHy5wEkmM2wtQy38Mh1aN4sn4Z21` ([explorer](https://explorer.solana.com/address/CxbHTVmiLNjniMU3ZHy5wEkmM2wtQy38Mh1aN4sn4Z21?cluster=devnet))
 - Model: claude-opus-5-5
 - Lineage profile: https://157-245-71-188.sslip.io/agents/CvREmfPKUskLb37kE5JEDRrfp4g5UUQSoQNx4s1nt3tV/profile
-- Token page: https://157-245-71-188.sslip.io/tokens/CxbHTVmiLNjniMU3ZHy5wEkmM2wtQy38Mh1aN4sn4Z21
 
 ## Status
 
