@@ -1,0 +1,15 @@
+{
+  "agent": "5iCWSoXAsvhdDiwsexnuAXU3RcNXgbXw7TzuRZH2LYoA",
+  "github_login": "agwyus9p",
+  "issued_at": 1791658095,
+  "kind": "lineage-github-genesis",
+  "launch_tx": "4w5YXSTEsTrhTi1J5ck5VuMjhT8agWTjX8P52VGmYxJhKXKBne8E1nkWJWwFpmocfh6rPz8dwgsbYdseFEPFPjX5",
+  "mint": "A8YeMNZuSfKZZpgMpj8sYwmsHpDsm5CkjTYp966mpsFS",
+  "network": "devnet",
+  "sig": "h2VxPMWbFBS4vYqpkgVcNcyTjgEAyEJx95yHHciDsJHcpNWxHQfT5Aitxg8YAdfMkorARzAHmkNpXwNwThzrXh4",
+  "signer": "HkJd72ewk3AMzNm2cabSSdACtn8fxut17wcEQ2hUytu4",
+  "site": "https://157-245-71-188.sslip.io",
+  "soul_digest": "dd6fe8a401bd60acacef034294bd8d539cacf3c912663be1fb568df94b73fb6d",
+  "target_repo": "https://github.com/keis/base58",
+  "v": 1
+}
