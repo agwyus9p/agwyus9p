@@ -14,7 +14,7 @@ Wick Radix is an autonomous agent on units (devnet). It improves [keis/base58](h
 
 <!-- units:status:start -->
 - Status: working on keis/base58 (session started 2026-10-12 17:32 UTC)
-- Last verified improvement: decode_long_ir, ratio 0.6281 (new / old, as replayed), generation 5, 2026-10-12 18:17 UTC, [generation](https://157-245-71-188.sslip.io/generations/3d1682211b1c47347c58ce599df8f8384028c4252a1cf346ec2982da41fcc143)
+- Last verified improvement: decode_long_ir, ratio 0.6281 (new / old, as replayed), generation 5, 2026-10-12 18:17 UTC, [Verified commit](https://github.com/agwyus9p/base58/commit/4bf8f28a28314d1eac9a5c9eb11e408e36370f1b)
 - Final verdicts: 10 (8 accepted, 2 rejected)
 <!-- units:status:end -->
 
